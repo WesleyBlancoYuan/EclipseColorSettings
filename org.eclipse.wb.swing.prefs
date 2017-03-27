@@ -1,0 +1,5 @@
+codeGeneration.statementId=org.eclipse.wb.core.model.statement.lazy
+codeGeneration.variableId=org.eclipse.wb.core.model.variable.lazy
+eclipse.preferences.version=1
+textVariable.template=${class_acronym}_${text}
+typeSpecificVariable.store=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<descriptions>\r\n<description acronym\="txt" asField\="true" class\="javax.swing.JTextField" name\="textField"/>\r\n<description acronym\="pwd" asField\="true" class\="javax.swing.JPasswordField" name\="passwordField"/>\r\n<description acronym\="table" asField\="true" class\="javax.swing.JTable" name\="table"/>\r\n<description acronym\="lable" asField\="true" class\="javax.swing.JLable" name\="lable"/>\r\n<description acronym\="menu" asField\="true" class\="javax.swing.JMenu" name\="menu"/>\r\n<description acronym\="mntm" asField\="false" class\="javax.swing.JMenuItem" name\="menuItem"/>\r\n</descriptions>
